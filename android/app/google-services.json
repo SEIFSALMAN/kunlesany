@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876581089944",
+    "project_id": "kunlesany-2d296",
+    "storage_bucket": "kunlesany-2d296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876581089944:android:77cf543bbd8a3ebebd16ed",
+        "android_client_info": {
+          "package_name": "com.example.kunlesany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRxYDu7qLKcu8itCC9tooOU8bBGZeZPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
